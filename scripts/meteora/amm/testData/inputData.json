@@ -1,0 +1,33 @@
+{
+  "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "inputAmount": "500000",
+  "params": {
+    "currentTime": 1749796166,
+    "poolState": {
+      "tokenAMint": "So11111111111111111111111111111111111111112",
+      "tokenBMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "tradeFeeDenominator": "100000",
+      "tradeFeeNumerator": "300",
+      "protocolTradeFeeDenominator": "100000",
+      "protocolTradeFeeNumerator": "20000"
+    },
+    "poolVaultALp": "7131687401",
+    "poolVaultBLp": "989839085",
+    "vaultA": {
+      "totalAmount": "404587908267023",
+      "lastReport": "1749792835",
+      "lockedProfitDegradation": "46296296",
+      "lastUpdatedLockedProfit": "9729370884"
+    },
+    "vaultB": {
+      "totalAmount": "20395779087569",
+      "lastReport": "1749792834",
+      "lockedProfitDegradation": "46296296",
+      "lastUpdatedLockedProfit": "467360974"
+    },
+    "vaultALpSupply": "370982376367050",
+    "vaultBLpSupply": "18112541809219",
+    "vaultAReserve": "86567348331224",
+    "vaultBReserve": "5472366030136"
+  }
+}

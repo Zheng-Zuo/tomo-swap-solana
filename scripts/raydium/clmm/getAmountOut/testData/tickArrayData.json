@@ -1,0 +1,2774 @@
+[
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 7200,
+    "initializedTickCount": 1,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 8340,
+        "liquidityNet": "1077971377",
+        "liquidityGross": "1077971377"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "AYfGb51UT2GW6g4kgAH381T5TYHdR15aECQ7u9WXnDQ5"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 18000,
+    "initializedTickCount": 1,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 19740,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 20160,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 20400,
+        "liquidityNet": "13948690",
+        "liquidityGross": "13948690"
+      },
+      {
+        "tick": 20460,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 20580,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 20640,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 20820,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21120,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21180,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21240,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21300,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21420,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 21540,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "E68HeBECNzaubuT2KEsH513Ywt5jw944j3277xk2FkYg"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 25200,
+    "initializedTickCount": 2,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25260,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25380,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25500,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25680,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25740,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25800,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25860,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25920,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 25980,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26040,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26100,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26220,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26280,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26340,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26400,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26580,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26700,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26760,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 26820,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27060,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27120,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27180,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27420,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27720,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27840,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 27900,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28080,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28140,
+        "liquidityNet": "1324531123",
+        "liquidityGross": "1324531123"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28260,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28500,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28560,
+        "liquidityNet": "-1324531123",
+        "liquidityGross": "1324531123"
+      },
+      {
+        "tick": 28620,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28680,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "4k5iDaMAG8WQ9LVSy5odQrbheioK4E4VRD9N6vvdy9rj"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 28800,
+    "initializedTickCount": 1,
+    "ticks": [
+      {
+        "tick": 28800,
+        "liquidityNet": "16437949",
+        "liquidityGross": "16437949"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 28920,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29100,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29160,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29220,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29280,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29340,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29400,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29700,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29760,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29820,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29880,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 29940,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30000,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30120,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30180,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30240,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30300,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30540,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30660,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30720,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 30780,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31020,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31140,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31260,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31320,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31380,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31560,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31680,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31740,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31800,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 31980,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32040,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32100,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32160,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32220,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32280,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "5cR2hc2DtagoxdE3JNSGuWvKasgQMeMusR1DpAMCNncT"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 32400,
+    "initializedTickCount": 4,
+    "ticks": [
+      {
+        "tick": 32400,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32460,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32520,
+        "liquidityNet": "56700017",
+        "liquidityGross": "56700017"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32700,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32760,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 32820,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33060,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33180,
+        "liquidityNet": "-1767038",
+        "liquidityGross": "1767038"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33300,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33540,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33600,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33720,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33780,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 33960,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34140,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34200,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34320,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34380,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34440,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34500,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34620,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34680,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 34740,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 35220,
+        "liquidityNet": "-1077971377",
+        "liquidityGross": "1077971377"
+      },
+      {
+        "tick": 35280,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 35340,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 35400,
+        "liquidityNet": "-56700017",
+        "liquidityGross": "56700017"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 35520,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 35760,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "7uhtdQQ99iZAuRwkx6W6ca3C2GMZnEkQfs4gPvdWB13q"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 36000,
+    "initializedTickCount": 2,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36060,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36240,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36420,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36480,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36540,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36780,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 36900,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37140,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37200,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37260,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37380,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37440,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37500,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37560,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37620,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37680,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 37860,
+        "liquidityNet": "7698874918",
+        "liquidityGross": "7698874918"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38100,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38160,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38220,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38340,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38700,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 38880,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 39180,
+        "liquidityNet": "-7698874918",
+        "liquidityGross": "7698874918"
+      },
+      {
+        "tick": 39240,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 39300,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 39420,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "5Gixghe8W4wLxHt8yw1wevLimoFEppaVoEmxvQJoxRLd"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 39600,
+    "initializedTickCount": 4,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 39720,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 40080,
+        "liquidityNet": "6843735231",
+        "liquidityGross": "6843735231"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 40500,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 40860,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 40980,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41280,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41400,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41460,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41520,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41580,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41760,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41820,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 41940,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42060,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42180,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42360,
+        "liquidityNet": "9198513570",
+        "liquidityGross": "22885984032"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42480,
+        "liquidityNet": "-16042248801",
+        "liquidityGross": "16042248801"
+      },
+      {
+        "tick": 42540,
+        "liquidityNet": "-13948690",
+        "liquidityGross": "13948690"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42780,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42900,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 42960,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "6yZFjhgv2zfiknvVYigcRGpcthUnZWnUwew5w4UB3PWT"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": 43200,
+    "initializedTickCount": 1,
+    "ticks": [
+      {
+        "tick": 43200,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 43380,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 43560,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 44400,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 44520,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 44700,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 45000,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 45660,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 46020,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 46080,
+        "liquidityNet": "-16437949",
+        "liquidityGross": "16437949"
+      },
+      {
+        "tick": 46140,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 46200,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "4URMgJWc5QC82xXuxCkku1ipNYmUEmPz2aCFKzsSnZqN"
+  },
+  {
+    "poolId": "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh",
+    "startTickIndex": -140400,
+    "initializedTickCount": 1,
+    "ticks": [
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": -138180,
+        "liquidityNet": "1767038",
+        "liquidityGross": "1767038"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      },
+      {
+        "tick": 0,
+        "liquidityNet": "0",
+        "liquidityGross": "0"
+      }
+    ],
+    "address": "D6RNvUYD5j4fZP2pCCuXwsg8JK3qMeLivWScDGQpmNhx"
+  }
+]
