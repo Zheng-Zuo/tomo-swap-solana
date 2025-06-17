@@ -1,4 +1,11 @@
-import { PublicKey, Transaction, Keypair, TransactionInstruction } from "@solana/web3.js";
+import {
+    PublicKey,
+    Transaction,
+    Keypair,
+    TransactionInstruction,
+    TransactionMessage,
+    VersionedTransaction,
+} from "@solana/web3.js";
 import { BanksClient, BanksTransactionResultWithMeta, ProgramTestContext } from "solana-bankrun";
 import { ACCOUNT_SIZE, AccountLayout, getAssociatedTokenAddressSync, TOKEN_PROGRAM_ID } from "@solana/spl-token";
 
@@ -15,6 +22,26 @@ export async function createAndProcessTransaction(
     tx.feePayer = payer.publicKey;
     tx.sign(payer, ...additionalSigners);
     return await client.tryProcessTransaction(tx);
+}
+
+export async function createAndProcessVersionedTransaction(
+    client: BanksClient,
+    payer: Keypair,
+    instructions: TransactionInstruction[],
+    additionalSigners: Keypair[] = []
+): Promise<BanksTransactionResultWithMeta> {
+    const [latestBlockhash] = await client.getLatestBlockhash();
+
+    const messageV0 = new TransactionMessage({
+        payerKey: payer.publicKey,
+        recentBlockhash: latestBlockhash,
+        instructions,
+    }).compileToV0Message();
+
+    const versionedTx = new VersionedTransaction(messageV0);
+    versionedTx.sign([payer, ...additionalSigners]);
+
+    return await client.tryProcessTransaction(versionedTx);
 }
 
 export async function setupATA(

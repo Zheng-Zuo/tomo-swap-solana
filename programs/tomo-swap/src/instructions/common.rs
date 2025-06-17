@@ -151,9 +151,14 @@ pub fn proxy_swap_process<'info>(
         )?;
     }
 
-    source_token_account.reload()?;
     destination_token_account.reload()?;
-    let after_source_balance = source_token_account.amount;
+
+    let after_source_balance = if source_token_account.get_lamports() != 0 {
+        source_token_account.reload()?;
+        source_token_account.amount
+    } else {
+        0
+    };
     let after_destination_balance = destination_token_account.amount;
     let source_token_change = before_source_balance
         .checked_sub(after_source_balance)
@@ -336,7 +341,7 @@ pub fn swap_process<'info>(
             last_to_account = hop_accounts.to_account;
         }
     }
-
+    
     //source_token_account.reload()?;
     
     // source token account has been closed in pumpfun buy
