@@ -303,12 +303,12 @@ describe("Pumpfun Buy Tests", () => {
             const instructions = [createAccountIx, initAccountIx, sellTx, closeAccountIx];
 
             // Execute the versioned transaction
-            console.log("Executing pump.fun buy swap...");
+            console.log("Executing pump.fun sell swap...");
             const txResult = await createAndProcessVersionedTransaction(client, payer, instructions);
 
             // Check if transaction succeeded
             expect(txResult.result).to.be.null;
-            console.log("✅ Pump.fun buy swap executed successfully!");
+            console.log("✅ Pump.fun sell swap executed successfully!");
 
             const accountInfo = await client.getAccount(payerAta);
             const tokenAccountInfo = AccountLayout.decode(accountInfo.data);
