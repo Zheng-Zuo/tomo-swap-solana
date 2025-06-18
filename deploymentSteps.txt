@@ -14,3 +14,18 @@ anchor idl init --filepath target/idl/tomo_swap.json Tomo4qKVvw3a6A6Yxrr7XZHVbxR
 Idl account created: 9PtZ4SWiAx533RSqa6XHNfRgfmSr7ETHKNPowhgyEy3M
 
 anchor idl upgrade --filepath target/idl/tomo_swap.json Tomo4qKVvw3a6A6Yxrr7XZHVbxR7uXEk5xeR7XqN7Kr --provider.cluster mainnet
+
+// upgrade program
+solana program extend Tomo4qKVvw3a6A6Yxrr7XZHVbxR7uXEk5xeR7XqN7Kr 20000
+
+solana program deploy target/deploy/tomo_swap.so \
+	--program-id Tomo4qKVvw3a6A6Yxrr7XZHVbxR7uXEk5xeR7XqN7Kr 
+
+// error handling
+solana-keygen recover -o buffer.json
+
+solana program deploy target/deploy/tomo_swap.so --buffer buffer.json
+
+solana program deploy target/deploy/tomo_swap.so \
+	--program-id Tomo4qKVvw3a6A6Yxrr7XZHVbxR7uXEk5xeR7XqN7Kr \
+  --buffer buffer.json
