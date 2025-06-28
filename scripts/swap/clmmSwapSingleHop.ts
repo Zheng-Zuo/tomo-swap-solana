@@ -35,7 +35,7 @@ function getOptions() {
         .option("poolId", {
             type: "string",
             describe: "pool Id",
-            default: "7XzVsjqTebULfkUofTDH5gDdZDmxacPmPuTfHa1n9kuh", // WSOL-USDC
+            default: "3ucNos4NbumPLZNWztqGHNFFgkHeRMBQAVemeeomsUxv", // WSOL-USDC
         })
         .option("inputMint", {
             type: "string",
@@ -45,7 +45,7 @@ function getOptions() {
         .option("inputAmount", {
             type: "string",
             describe: "input amount",
-            default: "100000", // 0.5 USDC
+            default: "100000", // 0.1 USDC
         });
     return options.argv;
 }
